@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\driver\\PebMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8265100A-CB9B-28E0-DBB5-369BF6BDAC0D}|PebMonitor.vcxproj|D:\\Code\\driver\\PebMonitor\\PebMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8265100A-CB9B-28E0-DBB5-369BF6BDAC0D}|PebMonitor.vcxproj|solutionrelative:PebMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265100A-CB9B-28E0-DBB5-369BF6BDAC0D}|PebMonitor.vcxproj|D:\\Code\\driver\\PebMonitor\\PebMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8265100A-CB9B-28E0-DBB5-369BF6BDAC0D}|PebMonitor.vcxproj|solutionrelative:PebMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265100A-CB9B-28E0-DBB5-369BF6BDAC0D}|PebMonitor.vcxproj|D:\\Code\\driver\\PebMonitor\\Shared.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8265100A-CB9B-28E0-DBB5-369BF6BDAC0D}|PebMonitor.vcxproj|solutionrelative:Shared.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PebMonitor.h",
+              "DocumentMoniker": "D:\\Code\\driver\\PebMonitor\\PebMonitor.h",
+              "RelativeDocumentMoniker": "PebMonitor.h",
+              "ToolTip": "D:\\Code\\driver\\PebMonitor\\PebMonitor.h",
+              "RelativeToolTip": "PebMonitor.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-19T14:03:54.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PebMonitor.cpp",
+              "DocumentMoniker": "D:\\Code\\driver\\PebMonitor\\PebMonitor.cpp",
+              "RelativeDocumentMoniker": "PebMonitor.cpp",
+              "ToolTip": "D:\\Code\\driver\\PebMonitor\\PebMonitor.cpp",
+              "RelativeToolTip": "PebMonitor.cpp",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAiwKYBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-19T14:04:23.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shared.h",
+              "DocumentMoniker": "D:\\Code\\driver\\PebMonitor\\Shared.h",
+              "RelativeDocumentMoniker": "Shared.h",
+              "ToolTip": "D:\\Code\\driver\\PebMonitor\\Shared.h",
+              "RelativeToolTip": "Shared.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-19T14:24:18.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
